@@ -24,5 +24,6 @@ We then used a T-Test to compare the average PSI of coils to the mean of 1,500 p
 
 We can see that this is true as we look at coils by lot as well. 
 
+## Study Design: MechaCar vs Competition
 
-
+In this study, we have evaluated suspension coils and mpg of MechaCar models. In order to better understand this data and how it compares to competitors, I would recommend finding average fuel efficiency for each model to compare directly against compentitor models. We could run t-tests for each model to show if there is a non-random correlation with MechaCars having different fuel efficiency compared to the comptetition. The null hypothesis would be that there is no difference in efficiency between MechaCar and other manufacturers. The alternate hypothesis is that MechaCars overall burn less gas per mile when a car is going at least 60 miles per hour that other car manufacturers. 
