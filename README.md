@@ -22,3 +22,7 @@ We then used a T-Test to compare the average PSI of coils to the mean of 1,500 p
 
 ![lot_t_test.png](lot_t_test.png)
 
+We can see that this is true as we look at coils by lot as well. 
+
+
+
