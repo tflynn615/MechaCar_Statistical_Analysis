@@ -10,4 +10,6 @@ After evaluating the summary results of a linear regression of the MechaCar data
 
 ![total_summary.png](total_summary.png)
 
+MechaCar's standards say that suspension coils should not have a variance higher than 100 lbs per square inch. As we can see above, the total manufacturing lots do meet this requirement. However, if we look at these results grouped by Lot (below) we can see that the Lot3 coils are much higher than this variance limit. 
+
 ![lot_summary.png](lot_summary.png) 
